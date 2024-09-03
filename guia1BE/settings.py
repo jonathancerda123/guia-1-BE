@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'valony1',
+    'valony2'
 ]
 
 MIDDLEWARE = [

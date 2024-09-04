@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'valony1',
+    'valony2'
 ]
 
 MIDDLEWARE = [
